@@ -7,7 +7,7 @@ assignees: SPIN04
 
 ---
 
-**Name of the project++
+**Name of the project**
 the name of the project where you are having truouble
 
 **Describe the bug**
