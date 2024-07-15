@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Issue report
 about: Create a report to get help
 title: ''
-labels: ''
+labels: To Validate
 assignees: SPIN04
 
 ---
